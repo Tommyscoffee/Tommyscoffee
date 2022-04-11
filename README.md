@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tommyscoffee
 
-- I'm working on webdevelopment.
+- I'm working as webdevelopment.
+- I'm also studying Coding at 42Tokyo.
 - I'm studying C, Typescript, vuejs, typeorm.
 - 
 <!---
