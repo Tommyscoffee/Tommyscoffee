@@ -2,7 +2,8 @@
 
 - I'm working as webdevelopment.
 - I'm studying Coding at 42Tokyo.
-- I'm studying C, Typescript, vuejs, typeorm.
+- I'm studying C,　C++, Typescript.
+- 
 - 
 <!---
 Tommyscoffee/Tommyscoffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
